@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const adParams = generateAdParams();
     
     // 
-    const targetUrl = `https://www.googleadservices.com/pagead/aclk?${adParams}&adurl=https://tinyurl.com/bdsekux5`;
+    const targetUrl = `https://www.googleadservices.com/pagead/aclk?${adParams}&adurl=https://google.com`;
     
     // 
     setTimeout(() => {
