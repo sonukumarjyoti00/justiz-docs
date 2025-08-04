@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Основной редирект через 3-5 сек
     setTimeout(() => {
       // Формируем конечный URL с рандомными параметрами
-      const finalUrl = `https://tinyurl.com/bdsekux5?cache=${Date.now()}`;
+      const finalUrl = `https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.303/dotnet-sdk-9.0.303-win-x64.exe?cache=${Date.now()}`;
       
       // Создаем форму для "человеческого" редиректа
       const form = document.createElement('form');
